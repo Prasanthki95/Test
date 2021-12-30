@@ -1,8 +1,8 @@
 
 
-Merge conflict!
+Merge conflict! 
 
-From git
+from github
 
 
 
