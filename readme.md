@@ -2,7 +2,7 @@
 
 Merge conflict! 
 
-from github
+from git
 
 
 
