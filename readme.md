@@ -1,6 +1,10 @@
 
 
-Hello world
+Merge conflict!
+
+From git
+
+
 
 
 
